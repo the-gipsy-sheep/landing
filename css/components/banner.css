@@ -1,0 +1,15 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  margin-top: 0;
+}
+
+.banner .container {
+  padding: 40px 50px;
+  color: white;
+}
+
+.btn {
+  margin-top: 40px;
+}
